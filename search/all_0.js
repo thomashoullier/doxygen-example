@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['example_2eh_0',['example.h',['../example_8h.html',1,'']]]
+  ['doxygen_20example_0',['Doxygen example',['../md_README.html',1,'']]]
 ];

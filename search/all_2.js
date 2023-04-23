@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['time_2',['Time',['../classTime.html',1,'Time'],['../classTime.html#a6a0ea6c4a9eae8b51365c5eda0018554',1,'Time::Time()']]]
+  ['now_2',['now',['../classTime.html#a4e698154700835119a946be6071a0984',1,'Time']]]
 ];
